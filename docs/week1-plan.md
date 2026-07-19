@@ -51,3 +51,4 @@ This week focuses on making the project environment ready and preparing the data
 - Week 1 is intentionally Windows and Colab friendly.
 - Do not install Vivado, Vitis, or FINN yet for this stage.
 - The later hardware flow will use Brevitas, ONNX, FINN, and ZedBoard PYNQ.
+- After Week 1 completion, continue with `docs/week2-next-steps.md` for merge/balance/split/train scaffolding.
