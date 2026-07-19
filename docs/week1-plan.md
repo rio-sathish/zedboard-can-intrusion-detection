@@ -51,3 +51,8 @@ This week focuses on making the project environment ready and preparing the data
 - Week 1 is intentionally Windows and Colab friendly.
 - Do not install Vivado, Vitis, or FINN yet for this stage.
 - The later hardware flow will use Brevitas, ONNX, FINN, and ZedBoard PYNQ.
+
+## Week 2 handoff (current)
+- Use `notebooks/02_merge_balance_split_save.py` for merge/balance/split/save.
+- Use `notebooks/03_training_starter.py` for CQMLP smoke training.
+- Keep workflow Colab/Windows-first; no Vitis or synthesis yet.
